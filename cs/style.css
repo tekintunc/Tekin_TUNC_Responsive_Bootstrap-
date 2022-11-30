@@ -1,19 +1,19 @@
-/* :root{
-    --background-warning:#ff0000 ;
-}
+/* bootstrap colors are change in this css section */
 
-.bg-warning {
-    background-color: var(--background-warning) !important;
-} */
 
+/* primary color is changed to darkslatblue */
 .bg-primary{
 
     background-color:darkslateblue !important;
 }
 
+/* warning color is changed to dimgray */
 .bg-warning{
     background-color:dimgray !important;
 }
+
+
+/* light color is changed to darkoilvegreen */
 
 .bg-light{
     background-color:darkolivegreen !important;
