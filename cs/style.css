@@ -1,0 +1,20 @@
+/* :root{
+    --background-warning:#ff0000 ;
+}
+
+.bg-warning {
+    background-color: var(--background-warning) !important;
+} */
+
+.bg-primary{
+
+    background-color:darkslateblue !important;
+}
+
+.bg-warning{
+    background-color:dimgray !important;
+}
+
+.bg-light{
+    background-color:darkolivegreen !important;
+}
